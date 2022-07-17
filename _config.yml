@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+
+name: "Cindy's Personal Website"
+navbar: 
+  title: "Cindy Pang"
+  left:
+    -text: "Home"
+     href: index.html
