@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Cindy Pang"
 title_separator          : "-"
-name                     : &name "Cindy Pang"
+name                     : &name "About Me"
 description              : &description "Undergraduate Research Assistant at Carolina Population Center"
 url                      : https://cindyjpang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Cindy Pang"
-  avatar           : "/images/cindy_pic.png"
-  bio              : "Undergraduate Research Assistant at Carolina Population Center"
-  location         : "Chapel Hill, North Carolina"
+  avatar           : "cindy_pic.png"
+  bio              : "Biostatistics PhD Student at UCLA Fielding School of Public Health | UNC Alumna with training in Biostatistics and Math"
+  location         : "Los Angeles, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=vf2tUs0AAAAJ&hl=en"
+  email            : "cindypang@g.ucla.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "cindyjpang"
   orcid            : "http://orcid.org/0000-0002-3450-355X"
   pinterest        :
   soundcloud       :
