@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-You can access my most recent CV in PDF form [here](../files/CindyPang_CV_updated_05_02_23.pdf)
+You can access my most recent CV in PDF form [here](../files/CindyPang_CV_updated_06_03_24.pdf)
