@@ -8,7 +8,7 @@ location: "Los Angeles, CA"
 ---
 *Please bookmark this page to view lab updates and materials*
 
-## "Syllabus"  
+## Important Lab Information   
 
 ### Lab/Office Hour Link for Section 1B  
 I use the **SAME** link for my lab and office hours (well, everything really) at [https://ucla.zoom.us/my/cindyjpang] (https://ucla.zoom.us/my/cindyjpang)  
