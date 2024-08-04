@@ -10,18 +10,47 @@ location: "Los Angeles, CA"
 
 ## "Syllabus"  
 
+### Lab/Office Hour Link for Section 1B  
+I use the **SAME** link for my lab and office hours (well, everything really) at [https://ucla.zoom.us/my/cindyjpang] (https://ucla.zoom.us/my/cindyjpang)  
+
 ### Accessing Help 
 
-| Teaching Assistant | Office Hour                               | Lab Section(s)               |
-| Cindy J. Pang      | Wednesdays 8-9 pm [Link](https://ucla.zoom.us/my/cindyjpang), [by appointment](https://app.simplymeet.me/cindyjpang) | [1B] MWF 12:00-12:50pm [Zoom](https://ucla.zoom.us/my/cindyjpang) |
+| Teaching Assistant | Office Hour                               | Lab Section(s)    | Contact |
+| Cindy J. Pang      | Wednesdays 8-9 pm [Link](https://ucla.zoom.us/my/cindyjpang), [by appointment](https://app.simplymeet.me/cindyjpang) | [1B] MWF 12:00-12:50pm [Zoom](https://ucla.zoom.us/my/cindyjpang) | cindypang@g.ucla.edu |
+| Jasen Zhang | *TBD*    | *idk* | jasenzhang@g.ucla.edu |  
+| Danielle Lavine | *TBD*  | *idk* | djlavine@g.ucla.edu | 
+
+### Switching Labs  
+You can attend ANY lab, BUT you must **submit your assignments for the DUE DATE for the lab you are ENROLLED in**  
+
+### Lab Grading  
+
+* **5/5** if the lab is **Completed**. Mistakes are totally fine, as long as there's work for all problems  
+
+* **(1-4)/5** partial completion with **1/5** corresponding to a **20%** completion and **4/5** corresponding to a **80%** completion  
+
+* **0/5** if there's **no work = no credit!**  
+
+* **YOU NEED TO TURN IN ALL THE LABS TO PASS THE COURSE !**  
+
+### Attendance  
+
+I don't take attendance, y'all are adults.  
+
+### Assignment Due Dates  
+
+Listed in the Schedule Below.  
+
+**If you need an extension, ASK.** Life happens. Extensions will be granted by the instructor (Dr. Lee)'s discretion.  
+
 
 ## Schedule  
 
 | Week |  Monday                          | Wednesday                             |  Friday    |
 | 1    | --                               | Lab 1 assigned                        | --         |
-| 2    | Lab 2 assigned                   | Lab 3 assigned (**Lab 1 DUE**)        | --         | 
-| 3    | Lab 4 assigned (**Lab 2 DUE**)   | -- (**Lab 3 DUE**)                    | --         |
-| 4    | Lab 5 assigned (**Lab 4 DUE**)   | Lab 6 assigned                        | --         |
-| 5    | LABOR DAY HOLIDAY                | Lab 7 assigned (**Lab 5 DUE**)        | --         |
-| 6    | (**Lab 6 DUE**)                  | (**Lab 7 DUE**)                       | --         |
+| 2    | Lab 2 assigned                   | Lab 3 assigned (**Lab 1 DUE, 11:59am**)        | --         | 
+| 3    | Lab 4 assigned (**Lab 2 DUE, 11:59 am**)   | -- (**Lab 3 DUE, 11:59am**)                    | --         |
+| 4    | Lab 5 assigned (**Lab 4 DUE, 11:59am**)   | Lab 6 assigned                        | --         |
+| 5    | LABOR DAY HOLIDAY                | Lab 7 assigned (**Lab 5 DUE, 11:59am**)        | --         |
+| 6    | (**Lab 6 DUE, 11:59am**)                  | (**Lab 7 DUE, 11:59am**)                       | --         |
   
