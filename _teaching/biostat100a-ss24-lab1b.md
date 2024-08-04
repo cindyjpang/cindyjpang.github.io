@@ -11,7 +11,7 @@ location: "Los Angeles, CA"
 ## Important Lab Information   
 
 ### Lab/Office Hour Link for Section 1B  
-I use the **SAME** link for my lab and office hours (well, everything really) at [https://ucla.zoom.us/my/cindyjpang] (https://ucla.zoom.us/my/cindyjpang)  
+I use the **SAME** link for my lab and office hours (well, everything really) at [https://ucla.zoom.us/my/cindyjpang](https://ucla.zoom.us/my/cindyjpang)  
 
 ### Accessing Help 
 
@@ -21,16 +21,13 @@ I use the **SAME** link for my lab and office hours (well, everything really) at
 | Danielle Lavine | *TBD*  | *idk* | djlavine@g.ucla.edu | 
 
 ### Switching Labs  
-You can attend ANY lab, BUT you must **submit your assignments for the DUE DATE for the lab you are ENROLLED in**  
+You can attend ANY lab, BUT you must **submit your assignments for the DUE DATE for the lab you are ENROLLED in.**  
 
 ### Lab Grading  
 
 * **5/5** if the lab is **Completed**. Mistakes are totally fine, as long as there's work for all problems  
-
 * **(1-4)/5** partial completion with **1/5** corresponding to a **20%** completion and **4/5** corresponding to a **80%** completion  
-
 * **0/5** if there's **no work = no credit!**  
-
 * **YOU NEED TO TURN IN ALL THE LABS TO PASS THE COURSE !**  
 
 ### Attendance  
@@ -39,10 +36,7 @@ I don't take attendance, y'all are adults.
 
 ### Assignment Due Dates  
 
-Listed in the Schedule Below.  
-
-**If you need an extension, ASK.** Life happens. Extensions will be granted by the instructor (Dr. Lee)'s discretion.  
-
+Listed in the Schedule Below.  **If you need an extension, ASK.** Life happens. Extensions will be granted by the instructor (Dr. Lee)'s discretion.  
 
 ## Schedule  
 
