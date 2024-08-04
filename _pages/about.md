@@ -16,8 +16,8 @@ hierarchical modelling for Big Data (or ‘Big N’) problems, high-dimensional 
 applications to public health problems.  
 
 I recently graduated from UNC-Chapel Hill with a BSPH in Biostatistics and a BA in
-Mathematics in May 2023. At UNC, she was an undergraduate research assistant at the Carolina
-Population Center supervised by Dr. Paul Delamater where her research focused on summarizing
+Mathematics in May 2023. At UNC, I was an undergraduate research assistant at the Carolina
+Population Center supervised by Dr. Paul Delamater where my research focused on summarizing
 the relationship between pre-existing immunity levels and COVID-19 outcomes during the Delta Wave in North Carolina counties and estimating COVID-19 disease incidence during the pre-
 vaccination era for North Carolina counties with Monte Carlo simulation and hierarchical models  
 

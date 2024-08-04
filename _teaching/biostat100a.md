@@ -8,3 +8,7 @@ date: 2023-09-28
 location: "Los Angeles, CA"
 ---
 I serve as a Teaching Assistant (TA) for Introduction to Biostatistics (BIOSTAT100A), taught by Dr. Martin Lee for Fall 2023, Spring 2024 Quarters.  
+
+See course website for laboratory sections below:  
+
+* [Summer Session C 2024 Lab 1B](../_teaching/biostat100a-ss24-lab1b.md)
