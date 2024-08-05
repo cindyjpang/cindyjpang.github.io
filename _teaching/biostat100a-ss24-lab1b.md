@@ -17,7 +17,7 @@ I use the **SAME** link for my lab and office hours (well, everything really) at
 
 | Teaching Assistant | Office Hour                               | Lab Section(s)    | Contact |
 | Cindy J. Pang      | Wednesdays 8-9 pm [Link](https://ucla.zoom.us/my/cindyjpang), [by appointment](https://app.simplymeet.me/cindyjpang) | [1B] MWF 12:00-12:50pm [Zoom](https://ucla.zoom.us/my/cindyjpang) | cindypang@g.ucla.edu |
-| Jasen Zhang | *TBD*    | *idk* | jasenzhang@g.ucla.edu |  
+| Jasen Zhang | *TBD*    | [1A] MWF 11am-12pm [Link](https://ucla.zoom.us/j/94586489911?pwd=eJnNhnrE54xnMJPJWTJNdNJJ7YrlxA.1), [1C] MWF 1-2pm [Link](https://ucla.zoom.us/j/99202993255?pwd=6NMSSnWwyqduVMwhGkAiaUS28pYNSs.1 ) | jasenzhang@g.ucla.edu |  
 | Danielle Lavine | *TBD*  | *idk* | djlavine@g.ucla.edu | 
 
 ### Switching Labs  
