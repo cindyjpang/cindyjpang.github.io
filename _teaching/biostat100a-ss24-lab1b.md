@@ -40,11 +40,13 @@ Listed in the Schedule Below.  **If you need an extension, ASK.** Life happens. 
 
 ## Schedule  
 
+Please note that schedule is subject to change!!!
+
 | Week |  Monday                          | Wednesday                             |  Friday    |
 | 1    | --                               | Lab 1 assigned                        | --         |
 | 2    | Lab 2 assigned                   | Lab 3 assigned (**Lab 1 DUE, 11:59am**)        | --         | 
-| 3    | Lab 4 assigned (**Lab 2 DUE, 11:59 am**)   | -- (**Lab 3 DUE, 11:59am**)                    | --         |
+| 3    | Lab 4 assigned (**Lab 2 DUE, 11:59 am**)   | **MIDTERM 1, No Lab** (**Lab 3 DUE, 11:59am**)                    | --         |
 | 4    | Lab 5 assigned (**Lab 4 DUE, 11:59am**)   | Lab 6 assigned                        | --         |
-| 5    | LABOR DAY HOLIDAY                | Lab 7 assigned (**Lab 5 DUE, 11:59am**)        | --         |
-| 6    | (**Lab 6 DUE, 11:59am**)                  | (**Lab 7 DUE, 11:59am**)                       | --         |
+| 5    | LABOR DAY HOLIDAY                | Lab 7 assigned, **MIDTERM 2** (**Lab 5 DUE, 11:59am**)        | --         |
+| 6    | (**Lab 6 DUE, 11:59am**)                  | (**Lab 7 DUE, 11:59am**)                       | **FINAL EXAM**        |
   
