@@ -47,6 +47,6 @@ Please note that schedule is subject to change!!!
 | 2    | Lab 2 assigned                   | Lab 3 assigned (**Lab 1 DUE, 11:59am**)        | --         | 
 | 3    | Lab 4 assigned (**Lab 2 DUE, 11:59 am**)   | **MIDTERM 1, No Lab** (**Lab 3 DUE, 11:59am**)                    | --         |
 | 4    | Lab 5 assigned (**Lab 4 DUE, 11:59am**)   | Lab 6 assigned                        | --         |
-| 5    | LABOR DAY HOLIDAY                | **MIDTERM 2, No Lab**        | Lab 7 assigned, (**Lab 5 DUE**)         |
+| 5    | LABOR DAY HOLIDAY                | **MIDTERM 2, No Lab**, Lab 7 assigned        | Lab (**Lab 5 DUE**)         |
 | 6    | (**Lab 6 DUE, 11:59am**)                  | (**Lab 7 DUE, 11:59am**)                       | **FINAL EXAM**        |
   
