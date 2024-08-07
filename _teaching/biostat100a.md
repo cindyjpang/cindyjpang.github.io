@@ -11,4 +11,4 @@ I serve as a Teaching Assistant (TA) for Introduction to Biostatistics (BIOSTAT1
 
 See course website for laboratory sections below:  
 
-* [Summer Session C 2024 Lab 1B](https://cindyjpang.github.io/teaching/biostat100a/ss4-lab1b)
+* [Summer Session C 2024 Lab 1B](cindyjpang.github.io/teaching/biostat100a/ss4-lab1b)
