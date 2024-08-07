@@ -43,7 +43,7 @@ Listed in the Schedule Below.  **If you need an extension, ASK.** Life happens. 
 Please note that schedule is subject to change!!!
 
 | Week |  Monday                          | Wednesday                             |  Friday    |
-| 1    | --                               | Lab 1 assigned, [Intro Slides](../files/Intro_SS24.pdf), [Lab 1 Slides](../files/Lab1_BlankSlides_SS24.pdf)                        | --         |
+| 1    | --                               | Lab 1 assigned, [Intro Slides](./files/Intro_SS24.pdf), [Lab 1 Slides](./files/Lab1_BlankSlides_SS24.pdf)                        | --         |
 | 2    | Lab 2 assigned                   | Lab 3 assigned (**Lab 1 DUE, 11:59pm**)        | --         | 
 | 3    | Lab 4 assigned (**Lab 2 DUE, 11:59 pm**)   | **MIDTERM 1, No Lab**                    | -- (**Lab 3 DUE, 11:59pm**)         |
 | 4    | Lab 5 assigned (**Lab 4 DUE, 11:59 pm**)   | Lab 6 assigned                        | --         |
