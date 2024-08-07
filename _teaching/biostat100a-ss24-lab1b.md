@@ -16,9 +16,9 @@ I use the **SAME** link for my lab and office hours (well, everything really) at
 ### Accessing Help 
 
 | Teaching Assistant | Office Hour                               | Lab Section(s)    | Contact |
-| Cindy J. Pang      | Wednesdays 8-9 pm [Link](https://ucla.zoom.us/my/cindyjpang), [by appointment](https://app.simplymeet.me/cindyjpang) | [1B] MWF 12:00-12:50pm [Zoom](https://ucla.zoom.us/my/cindyjpang) | cindypang@g.ucla.edu |
-| Jasen Zhang | *TBD*    | [1A] MWF 11am-12pm [Link](https://ucla.zoom.us/j/94586489911?pwd=eJnNhnrE54xnMJPJWTJNdNJJ7YrlxA.1), [1C] MWF 1-2pm [Link](https://ucla.zoom.us/j/99202993255?pwd=6NMSSnWwyqduVMwhGkAiaUS28pYNSs.1 ) | jasenzhang@g.ucla.edu |  
-| Danielle Lavine | *TBD*  | *idk* | djlavine@g.ucla.edu | 
+| Cindy J. Pang      | Wednesdays 8-9 pm [Zoom](https://ucla.zoom.us/my/cindyjpang), [by appointment](https://app.simplymeet.me/cindyjpang) | [1B] MWF 12:00-12:50pm [Zoom](https://ucla.zoom.us/my/cindyjpang) | cindypang@g.ucla.edu |
+| Jasen Zhang | Thursdays 2-3 pm [Zoom](https://ucla.zoom.us/j/91737617749?pwd=NHt2mPa9aID36lHBeNEqTYDBF8B1bL.1)    | [1A] MWF 11am-12pm [Zoom](https://ucla.zoom.us/j/94586489911?pwd=eJnNhnrE54xnMJPJWTJNdNJJ7YrlxA.1), [1C] MWF 1-2pm [Zoom](https://ucla.zoom.us/j/99202993255?pwd=6NMSSnWwyqduVMwhGkAiaUS28pYNSs.1 ) | jasenzhang@g.ucla.edu |  
+| Danielle Lavine | Thursdays 10-10:50am [Zoom](https://ucla.zoom.us/j/91529408052 )  | [1D]TuTh 1-1:50p [Zoom](https://ucla.zoom.us/j/91529408052), [1E] TuTh 11-11:50a [Zoom](https://ucla.zoom.us/j/91529408052) | djlavine@g.ucla.edu | 
 
 ### Switching Labs  
 You can attend ANY lab, BUT you must **submit your assignments for the DUE DATE for the lab you are ENROLLED in.**  
@@ -44,9 +44,9 @@ Please note that schedule is subject to change!!!
 
 | Week |  Monday                          | Wednesday                             |  Friday    |
 | 1    | --                               | Lab 1 assigned                        | --         |
-| 2    | Lab 2 assigned                   | Lab 3 assigned (**Lab 1 DUE, 11:59am**)        | --         | 
-| 3    | Lab 4 assigned (**Lab 2 DUE, 11:59 am**)   | **MIDTERM 1, No Lab**                    | -- (**Lab 3 DUE**)         |
-| 4    | Lab 5 assigned (**Lab 4 DUE, 11:59am**)   | Lab 6 assigned                        | --         |
-| 5    | LABOR DAY HOLIDAY                | **MIDTERM 2, No Lab**, Lab 7 assigned        | Lab (**Lab 5 DUE**)         |
-| 6    | (**Lab 6 DUE, 11:59am**)                  | (**Lab 7 DUE, 11:59am**)                       | **FINAL EXAM**        |
+| 2    | Lab 2 assigned                   | Lab 3 assigned (**Lab 1 DUE, 11:59pm**)        | --         | 
+| 3    | Lab 4 assigned (**Lab 2 DUE, 11:59 pm**)   | **MIDTERM 1, No Lab**                    | -- (**Lab 3 DUE, 11:59pm**)         |
+| 4    | Lab 5 assigned (**Lab 4 DUE, 11:59 pm**)   | Lab 6 assigned                        | --         |
+| 5    | LABOR DAY HOLIDAY                | **MIDTERM 2, No Lab**, Lab 7 assigned        | Lab (**Lab 5 DUE. 11:59pm**)         |
+| 6    | (**Lab 6 DUE, 11:59 pm**)                  | (**Lab 7 DUE, 11:59 pm**)                       | **FINAL EXAM**        |
   
