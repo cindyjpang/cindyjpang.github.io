@@ -43,7 +43,7 @@ Listed in the Schedule Below.  **If you need an extension, ASK.** Life happens. 
 Please note that schedule is subject to change!!!
 
 | Week |  Monday                          | Wednesday                             |  Friday    |
-| 1    | --                               | Lab 1 assigned                        | --         |
+| 1    | --                               | Lab 1 assigned, [Intro Slides](../files/Teaching/BIOSTAT%20100A/Summer%20Session%202024/Intro-SS24.pdf), [Lab 1 Blank Slides](../files/Teaching/BIOSTAT%20100A/Summer%20Session%202024/Lab%201-%20SS24%20-%20Blank%20Slides.pdf)                        | --         |
 | 2    | Lab 2 assigned                   | Lab 3 assigned (**Lab 1 DUE, 11:59pm**)        | --         | 
 | 3    | Lab 4 assigned (**Lab 2 DUE, 11:59 pm**)   | **MIDTERM 1, No Lab**                    | -- (**Lab 3 DUE, 11:59pm**)         |
 | 4    | Lab 5 assigned (**Lab 4 DUE, 11:59 pm**)   | Lab 6 assigned                        | --         |
