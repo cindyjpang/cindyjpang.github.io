@@ -43,7 +43,7 @@ Listed in the Schedule Below.  **If you need an extension, ASK.** Life happens. 
 Please note that schedule is subject to change!!!
 
 | Week |  Monday                          | Wednesday                             |  Friday    |
-| 1    | --                               | Lab 1 assigned, [Intro Slides](/files/biostat100a_ss24/Intro_SS24.pdf), [Lab 1 Slides](/files/biostat100a_ss24/Lab1_BlankSlides_SS24.pdf), [Zoom Recording](https://ucla.zoom.us/rec/share/VUIaIAvA5e8ZtBvUXZKfZjlyy7XvoO7_7CvztHigMffJwLhXcCm1_c7G49GdvIfH.HDkprfj-_7PjdjBd?startTime=1723057498000) PW: 9I=MvqNf                        | --         |
+| 1    | --                               | Lab 1 assigned, [Intro Slides](/files/biostat100a_ss24/Intro_SS24.pdf), [Lab 1 Slides](/files/biostat100a_ss24/Lab1_BlankSlides_SS24.pdf), [Zoom Recording](https://ucla.zoom.us/rec/share/VUIaIAvA5e8ZtBvUXZKfZjlyy7XvoO7_7CvztHigMffJwLhXcCm1_c7G49GdvIfH.HDkprfj-_7PjdjBd?startTime=1723057498000) PW: 9I=MvqNf                        | [Review - Week 1](/files/biostat100a_ss24/Review_Week1_SS24.pdf)        |
 | 2    | Lab 2 assigned                   | Lab 3 assigned (**Lab 1 DUE, 11:59pm**)        | --         | 
 | 3    | Lab 4 assigned (**Lab 2 DUE, 11:59 pm**)   | **MIDTERM 1, No Lab**                    | -- (**Lab 3 DUE, 11:59pm**)         |
 | 4    | Lab 5 assigned (**Lab 4 DUE, 11:59 pm**)   | Lab 6 assigned                        | --         |
