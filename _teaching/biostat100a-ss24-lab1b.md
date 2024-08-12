@@ -44,11 +44,11 @@ Please note that schedule is subject to change!!!
 
 | Week |  Monday                          | Wednesday                             |  Friday    |
 | 1    | --                               | Lab 1 assigned, [Intro Slides](/files/biostat100a_ss24/Intro_SS24.pdf), [Lab 1 Blank Slides](/files/biostat100a_ss24/Lab1_BlankSlides_SS24.pdf), [Lab 1 Annotated Slides](/files/biostat100a_ss24/Lab1_AnnotatedSlides_SS24.pdf),[Zoom Recording](https://ucla.zoom.us/rec/share/VUIaIAvA5e8ZtBvUXZKfZjlyy7XvoO7_7CvztHigMffJwLhXcCm1_c7G49GdvIfH.HDkprfj-_7PjdjBd?startTime=1723057498000) PW: 9I=MvqNf                        | [Review - Week 1](/files/biostat100a_ss24/Review_Week1_SS24.pdf),[Annotated Slides](/files/biostat100a_ss24/Review_Week1_Annotated_SS24.pdf), [Zoom Recording](https://ucla.zoom.us/rec/share/9R5K3csSXjxdjX-3jVqQJyqUiKJwjvf9jEcnmbyCTkbuFy5tMvt0Yg9x6XZiKFko.PY_N5b30lE3DykP-?startTime=1723230975000) Passcode: =.RNc?16        |
-| 2    | Lab 2 assigned, [Lab 2 Slides](/files/biostat100a_ss24/Lab2_SS24.pdf)                   | Lab 3 assigned (**Lab 1 DUE, 11:59pm**)        | --         | 
-| 3    | Lab 4 assigned (**Lab 2 DUE, 11:59 pm**)   | **MIDTERM 1, No Lab**                    | -- (**Lab 3 DUE, 11:59pm**)         |
-| 4    | Lab 5 assigned (**Lab 4 DUE, 11:59 pm**)   | Lab 6 assigned                        | --         |
+| 2    | Lab 2 assigned, [Lab 2 Slides](/files/biostat100a_ss24/Lab2_SS24.pdf)                   | Lab 3 assigned (**Lab 1 DUE, 11:59pm**)        | *Review Week 2*        | 
+| 3    | Lab 4 assigned (**Lab 2 DUE, 11:59 pm**)   | **MIDTERM 1, No Lab**                    | *Review Week 3* (**Lab 3 DUE, 11:59pm**)         |
+| 4    | Lab 5 assigned (**Lab 4 DUE, 11:59 pm**)   | Lab 6 assigned                        | *Review Week 4*       |
 | 5    | LABOR DAY HOLIDAY                | **MIDTERM 2, No Lab**, Lab 7 assigned        | Lab (**Lab 5 DUE. 11:59pm**)         |
-| 6    | (**Lab 6 DUE, 11:59 pm**)                  | (**Lab 7 DUE, 11:59 pm**)                       | **FINAL EXAM**        |
+| 6    | (**Lab 6 DUE, 11:59 pm**)                  | *Review Week 5/6* (**Lab 7 DUE, 11:59 pm**)                       | **FINAL EXAM**        |
 
 In case zoom is faulty/links expire, here is the link to all the recordings: [UCLA Box Link to All Recordings](https://ucla.box.com/s/j74s0worpxv66fnpasorqz6q8rxs9ow4)
   
