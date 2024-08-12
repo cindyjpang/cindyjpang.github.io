@@ -49,4 +49,6 @@ Please note that schedule is subject to change!!!
 | 4    | Lab 5 assigned (**Lab 4 DUE, 11:59 pm**)   | Lab 6 assigned                        | --         |
 | 5    | LABOR DAY HOLIDAY                | **MIDTERM 2, No Lab**, Lab 7 assigned        | Lab (**Lab 5 DUE. 11:59pm**)         |
 | 6    | (**Lab 6 DUE, 11:59 pm**)                  | (**Lab 7 DUE, 11:59 pm**)                       | **FINAL EXAM**        |
+
+In case zoom is faulty/links expire, here is the link to all the recordings: [UCLA Box Link to All Recordings](https://ucla.box.com/s/j74s0worpxv66fnpasorqz6q8rxs9ow4)
   
