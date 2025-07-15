@@ -8,18 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Cindy J. Pang and welcome to my site!  
+Hi, I’m Cindy Pang—a PhD candidate in Biostatistics at UCLA. My research focuses on applying statistical and machine learning methods to high-dimensional biomedical data, with current projects exploring DNA methylation biomarkers for ovarian cancer relapse prediction. I’m passionate about making statistical tools accessible and interpretable, particularly in the context of survival analysis, epigenetics, and spatial health data.
 
-I am a PhD student in the Department of Biostatistics at the UCLA Fielding School
-of Public Health, supervised by Dr. Sudipto Banerjee. My research interests are in Bayesian
-hierarchical modelling for Big Data (or ‘Big N’) problems, high-dimensional data, with
-applications to public health problems.  
+I’ve served as a Teaching Assistant for a range of undergraduate and graduate biostatistics courses, and I’m committed to inclusive and flexible teaching practices. Outside of research and teaching, I mentor students through research collaborations and leadership roles in the Biostatistics Student Association. I’m especially interested in interdisciplinary work that bridges statistics with public health, environmental health, and medical geography.
 
-I recently graduated from UNC-Chapel Hill with a BSPH in Biostatistics and a BA in
-Mathematics in May 2023. At UNC, I was an undergraduate research assistant at the Carolina
-Population Center supervised by Dr. Paul Delamater where my research focused on summarizing
-the relationship between pre-existing immunity levels and COVID-19 outcomes during the Delta Wave in North Carolina counties and estimating COVID-19 disease incidence during the pre-
-vaccination era for North Carolina counties with Monte Carlo simulation and hierarchical models  
+Long-term, I hope to pursue a career in academia that integrates research, teaching, and mentorship—and helps make data-driven public health more equitable and transparent.
 
-Outside of the academic realm, you can find me singing (very badly) to Taylor Swift songs,
-collecting squishmallows, petting dogs, watching dog videos, reading (currently obsessed with fantasy novels) and cheering for the UNC Men’s Basketball team. I also enjoy spending time with her 7-year-old golden retriever, Laken.
