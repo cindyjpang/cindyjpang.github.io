@@ -1,12 +1,11 @@
 ---
-title: "Introduction to Biostatistics (BIOSTAT 201A) - Fall 2025 - Discussion 1D"
+title: "Introduction to Biostatistics (BIOSTAT 201A) - Fall 2025"
 type: "Graduate (MPH)"
-permalink: /teaching/biostat100a/ss24-lab1b
+permalink: /teaching/biostat201a/fa25
 venue: "UCLA Dept. of Biostatistics"
-date: 2024-08-05
+date: 2025-10-01
 location: "Los Angeles, CA"
 ---
-
 
 ## Course Information  
 
