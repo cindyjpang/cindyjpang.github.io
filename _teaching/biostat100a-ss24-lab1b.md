@@ -23,7 +23,7 @@ I use the **SAME** link for my lab and office hours (well, everything really) at
 ### Switching Labs  
 You can attend ANY lab, BUT you must **submit your assignments for the DUE DATE for the lab you are ENROLLED in.**  
 
-### Lab Grading  
+### Lab Grading   
 
 * **5/5** if the lab is **Completed**. Mistakes are totally fine, as long as there's work for all problems  
 * **(1-4)/5** partial completion with **1/5** corresponding to a **20%** completion and **4/5** corresponding to a **80%** completion  
