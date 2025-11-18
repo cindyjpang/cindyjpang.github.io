@@ -8,4 +8,4 @@ date: 11-12-2025
 location: "Los Angeles, CA"
 ---
 
-* [Causal Inference Reading Group 2025 - Causal Inference as a Missing Data Problem (Bayes' Version)](../files/presentations/2025-11-12_Cindy_Pang.pdf)
+* [Causal Inference Reading Group 2025 - Causal Inference as a Missing Data Problem (Bayes' Version) Slides](../files/presentations/2025-11-12_Cindy_Pang.pdf)
