@@ -7,16 +7,14 @@ date: 2025-10-01
 location: "Los Angeles, CA"
 ---
 
-## Course Information  
-
-Introduction to Biostatistics (BIOSTAT 201A), taught by Dr. Joseph Zoller, is an introductory biostatistics course for first-year MPH students.  
+I serve as a Teaching Assistant (TA) for Introduction to Biostatistics (BIOSTAT200A), taught by Dr. Joseph Zoller for Fall 2025 Quarter. 
 
 ## About Discussion Slides and Materials  
 These materials are intended for students and future teaching assistants for this course. Students learning statistics for biology or public health may also find these slides helpful as well. 
 
 **If you choose to use these slides for teaching purposes, please include some acknowledgement that these slides were created by me (i.e., "Slide Courtesy of Cindy J. Pang").** Many of these slides are adapted from slides I made from courses in the past such as BIOSTAT 100A and notes that I've organized throughout graduate school. 
 
-*Note about Exercises* Many of the exercises are adapted/modified from *Fundamentals of Biostatistics, Bernard Rosner, 2nd edition*, written with ChatGPT, or adapted from homework problems. 
+*Note about Exercises:* Many of the exercises are adapted/modified from *Fundamentals of Biostatistics, Bernard Rosner, 2nd edition*, written with ChatGPT, or adapted from homework problems. 
 
 ## Discussion Material & Slides  
 
